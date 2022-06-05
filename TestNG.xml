@@ -1,0 +1,9 @@
+<suite name="Amazon">
+	<test name="TestNG" allow-return-values="true">
+		<classes>
+			<class name="testLayer.SCMTest" />
+		</classes>
+	</test>
+	
+</suite>
+
